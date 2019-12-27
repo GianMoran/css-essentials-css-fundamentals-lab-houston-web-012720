@@ -29,7 +29,6 @@ figcaption{
   font-size: 20;
 }
 #details div{
-  display: block;
   float: left;
   text-align: center;
   background-color: red;
