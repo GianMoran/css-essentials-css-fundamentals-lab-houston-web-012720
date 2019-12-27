@@ -20,7 +20,7 @@ a{
   background-color: grey;
 
 }
-#featured-property{
+#featured-property p{
   width: 800px;
   text-align: center;
 }
